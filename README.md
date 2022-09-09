@@ -12,3 +12,7 @@ Yolov7 is downloaded form https://github.com/WongKinYiu/yolov7 and the custom da
 For Demon of the model. We can see that the person is standing with a handgun in is hand
 
 ![1](https://user-images.githubusercontent.com/45498501/189306783-043b08fd-6426-467d-93ff-ea155a77a406.jpg)
+
+After the Yolov7 model is trained on the handgun images for 100 epochs the results are
+
+![1pred](https://user-images.githubusercontent.com/45498501/189307428-bf017cb3-7467-4f62-9ca5-e8b1b8658852.jpg)
