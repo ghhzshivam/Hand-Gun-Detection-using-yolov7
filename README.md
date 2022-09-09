@@ -9,3 +9,6 @@ The dataset is of Images with handguns with annotated labels. The dataset is 347
 ##Yolov7 
 Yolov7 is downloaded form https://github.com/WongKinYiu/yolov7 and the custom dataset of handguns are added. Then the model is trained based on the custom dataset the classes.
 
+For Demon of the model. We can see that the person is standing with a handgun in is hand
+
+![1](https://user-images.githubusercontent.com/45498501/189306783-043b08fd-6426-467d-93ff-ea155a77a406.jpg)
